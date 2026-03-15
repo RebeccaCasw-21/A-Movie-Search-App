@@ -1,4 +1,5 @@
 # A-Movie-Search-App
+# A Repository using React Components, Styles, and the Main App file
 movie-search-app
 │
 ├── public
